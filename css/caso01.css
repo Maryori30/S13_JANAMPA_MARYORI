@@ -1,0 +1,89 @@
+*{
+    background-color: black;
+}
+h1{
+    color:rgb(241, 150, 14);
+    text-shadow: 2px 2px 4px white;
+    text-align:center;
+    font-size:55px;
+}
+header{
+    border:rgb(41, 41, 75) 2px solid;
+    background-color: rgb(49, 96, 157);
+    color:white;
+    height: 25px;
+    width: 60%;
+    padding:20px;
+    margin:auto;
+    text-align:center;
+    font-size:25px;
+    border-radius:20px;
+}
+nav{
+    border:rgb(41, 41, 75) 2px solid;
+    background-color: rgb(49, 96, 157);
+    color:white;
+    height: 25px;
+    width: 60%;
+    padding:20px;
+    margin:auto;
+    text-align:center;
+    font-size:25px;
+    border-radius:20px;
+}
+main{
+    background-color:white;
+    width: 63%;
+    height: 223px;
+    margin:auto;
+    border:1px solid white;
+    border-radius:15px;
+}
+main section{
+    color:white;
+    background-color: rgb(49, 96, 157);
+    width: 570px;
+    height: 200px;
+    margin:8px;
+    text-align: center;
+    border-radius:15px;
+    padding-top:10px;
+    font-size:25px;
+}
+main article{
+    text-align: center;
+    background-color:rgb(18, 18, 56) ;
+    margin:8px;
+    border-radius:15px;
+    width: 535px;
+    height: 137px;
+    font-size:25px;
+    padding:10px;
+}
+main aside{
+    color:white;
+    background-color: rgb(49, 96, 157);
+    width: 260px;
+    height: 200px;
+    margin:8px;
+    text-align: center;
+    border-radius:15px;
+    padding-top:10px;
+    font-size:25px;
+    float:right;
+    position:absolute;
+    right: 256px;
+    top:310px;
+}
+footer{
+    border:rgb(41, 41, 75) 2px solid;
+    background-color: rgb(49, 96, 157);
+    color:white;
+    height: 25px;
+    width: 60%;
+    padding:20px;
+    margin:auto;
+    text-align:center;
+    font-size:25px;
+    border-radius:20px;
+}

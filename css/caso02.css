@@ -1,0 +1,26 @@
+*{
+    margin:0;
+    padding:0;
+    background-color: rgb(195, 53, 86);
+}
+body{
+    margin-top:10px;
+}
+main ul li{
+    list-style-type:none;
+    display:block;
+    border: 1px solid black;
+    box-shadow:5px 5px 5px black;
+    margin-bottom:10px;
+    width: 150px;
+    border-radius: 15px;
+    padding:10px;
+    background-color:rgb(144, 7, 144);
+    color:white;
+    text-align:center;
+    text-transform: uppercase;
+    margin-left: 10px;
+}
+main{
+    margin-top:25px;
+}
